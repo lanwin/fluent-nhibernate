@@ -365,6 +365,7 @@
     <Compile Include="MappingModel\ManyToManyTableNameVisitor.cs" />
     <Compile Include="MappingModel\Output\XmlFilterDefinitionWriter.cs" />
     <Compile Include="MappingModel\Output\XmlFilterWriter.cs" />
+    <Compile Include="Mapping\ColumnMappingCollection.cs" />
     <Compile Include="Mapping\FilterDefinition.cs" />
     <Compile Include="Mapping\FilterPart.cs" />
     <Compile Include="Mapping\IFilterDefinition.cs" />
